@@ -107,5 +107,8 @@ $(document).ready(function(){
 				time: 3000
 			});	
 		});
-
+		function myFunction() {
+			var element = document.body;
+			element.classList.toggle("dark-mode");
+		  }
 });
