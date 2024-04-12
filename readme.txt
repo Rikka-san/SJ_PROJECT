@@ -10,13 +10,6 @@ Name: 		SJ CREATIVE
 Version: 	0.0.1
 Author: 	Takanashi Yuu
 
-
-Changelog:
------------------------
-Version 0.0.1 12-04-2024
-- start uploads website 
-
-
 Thanks to:
 -----------------------
 - Instagram:
