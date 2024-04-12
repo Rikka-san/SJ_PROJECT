@@ -7,27 +7,22 @@ Listrace is a bootstrap 3 framework based html5/css3 directory listing template.
 
 Template Info:
 -----------------------
-Name: 		Listrace - free directory template
-Version: 	1.0
-Author: 	ThemeSINE
-Website: 	https://www.themesine.com/
+Name: 		SJ CREATIVE
+Version: 	0.0.1
+Author: 	Takanashi Yuu
 
 
 Changelog:
 -----------------------
-Version 1.0 21-05-2018
-- initial release 
+Version 0.0.1 12-04-2024
+- start uploads website 
 
 
-Credits:
+Thanks to:
 -----------------------
-- Twitter Bootstrap http://getbootstrap.com
-- jQuery http://jquery.org
-- Modernizr https://modernizr.com/
-- Sticky.js http://stickyjs.com/
-- JQuery easing https://github.com/gdsmith/jquery.easing
-- Bootsnav http://bootsnav.danurstrap.com/
-
-License:
------------------------
-Free License - https://www.themesine.com/license/
+- Instagram:
+    - Takanashi Yuu (@yuki_takanashi16)
+    - Iqbal Putra P (@iqbal_prkdna254)
+-github
+    - Takanashi Yuu (@Rikka-san)
+    
